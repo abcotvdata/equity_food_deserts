@@ -1,6 +1,6 @@
 # equity_food_deserts
 
-Combination of USDA's Food Access Research Atlas and racial/ethnic demographics for all U.S. census tracts. File notes the state, county and metro area of the tract as well.
+This is a combination of USDA's Food Access Research Atlas and racial/ethnic demographics for all U.S. census tracts. File notes the state, county and metro area of the tract as well.
 
 The csv file includes the yes/no flag for whether or not the Census tract was flagged as having low-access to a grocery or supermarket with healthy food, according to the USDA's Food Access Research Atlas.
 
